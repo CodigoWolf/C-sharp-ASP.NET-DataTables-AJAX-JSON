@@ -13,3 +13,10 @@
 	border-color: #fff;
 	text-align:center;
 }
+
+.ocultar{
+    display: none;
+}
+#boton{
+    margin-top:20px;
+}
