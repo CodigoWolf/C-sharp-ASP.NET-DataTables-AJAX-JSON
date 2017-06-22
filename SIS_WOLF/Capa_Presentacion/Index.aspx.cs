@@ -34,8 +34,8 @@ namespace Capa_Presentacion
             lista.Add(new Usuario(2, "Amelia", "741"));
             lista.Add(new Usuario(3, "Geovanny", "9863"));
             lista.Add(new Usuario(4, "Petter", "423"));
-            lista.Add(new Usuario(5, "Pepe", "758"));
-            lista.Add(new Usuario(6, "Julio", "123"));
+            lista.Add(new Usuario(5, "Ríos", "758"));
+            lista.Add(new Usuario(6, "Ñato", "123"));
             //string json = JsonConvert.SerializeObject(lista);            
             object json = new { data = lista};
 
